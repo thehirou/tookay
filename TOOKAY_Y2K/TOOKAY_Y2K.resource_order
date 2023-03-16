@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":4,"path":"folders/Animation Curves.yy",},
+    {"name":"Objects","order":3,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":1,"path":"folders/Sounds.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sprChat","order":1,"path":"sprites/sprChat/sprChat.yy",},
+    {"name":"sprBlank","order":5,"path":"sprites/sprBlank/sprBlank.yy",},
+    {"name":"sprChatBg","order":2,"path":"sprites/sprChatBg/sprChatBg.yy",},
+    {"name":"scrPrettyfy","order":2,"path":"scripts/scrPrettyfy/scrPrettyfy.yy",},
+    {"name":"scrJson","order":1,"path":"scripts/scrJson/scrJson.yy",},
+    {"name":"oChatbox","order":2,"path":"objects/oChatbox/oChatbox.yy",},
+    {"name":"oCursor","order":3,"path":"objects/oCursor/oCursor.yy",},
+    {"name":"sprFriendsBg","order":3,"path":"sprites/sprFriendsBg/sprFriendsBg.yy",},
+    {"name":"Timers","order":6,"path":"notes/Timers/Timers.yy",},
+    {"name":"sprChatWrite","order":4,"path":"sprites/sprChatWrite/sprChatWrite.yy",},
+    {"name":"oButton","order":1,"path":"objects/oButton/oButton.yy",},
+    {"name":"Why_did_I_abandon_thi","order":7,"path":"notes/Why_did_I_abandon_thi/Why_did_I_abandon_thi.yy",},
+  ],
+}

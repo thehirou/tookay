@@ -1,0 +1,1 @@
+scrXY(window_mouse_get_x(),window_mouse_get_y())

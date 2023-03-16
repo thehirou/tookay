@@ -1,0 +1,2 @@
+The fucking json that manages messages kept overwriting itself every time I start
+a new session and then send a new message
